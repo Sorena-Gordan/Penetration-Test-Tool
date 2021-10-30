@@ -16,9 +16,8 @@ def banner():
     ██║██║░░██║██╗██║░╚███║╚█████╔╝██║░░░░░╚█████╔╝███████╗
     ╚═╝╚═╝░░╚═╝╚═╝╚═╝░░╚══╝░╚════╝░╚═╝░░░░░░╚════╝░╚══════╝
 
-                        developer : amirali TooVinS
-                        discord id : amirali TooVinS#7670
-                        telegram : @feedback200
+                        developer : Sorena gordn
+                        discord id : ✡ Sorena ᵍᵒʳᵈᵃᶰ#2939
                         Discord server : comming soon...
     ======================================================
     """)
@@ -43,8 +42,7 @@ def info1():
 def develioper():
     time.sleep(0.1)
     print(Fore.YELLOW + """
-    developer team : TooVinS family | amirali TooVins
-    leader family : * Hosein TooVinS *
+    developer team : ✡ Sorena ᵍᵒʳᵈᵃᶰ#2939 and Nothing :D
     version = 1.0.0
     crited = 21/9/2021
     """)
