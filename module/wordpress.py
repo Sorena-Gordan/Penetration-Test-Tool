@@ -1051,7 +1051,7 @@ def user():
     try:
         print(Fore.GREEN+" [+] Please Enter WordPress URL\n")
         print(Fore.RED+" [!] Please Do Not Include Http\n")
-        Url = input(Fore.RED+" ┌─["+Fore.LIGHTGREEN_EX+"WEBKILLER"+Fore.BLUE+"~"+Fore.WHITE+"@HOME"+Fore.RED+"/"+Fore.CYAN+"CMN"+Fore.RED+"/"+Fore.LIGHTYELLOW_EX+"WP"+Fore.RED+"/"+Fore.GREEN+"Get-Username"+Fore.RED+"""]
+        Url = input(Fore.RED+" ┌─["+Fore.LIGHTGREEN_EX+"irnofoz"+Fore.BLUE+"~"+Fore.WHITE+"@HOME"+Fore.RED+"/"+Fore.CYAN+"CMN"+Fore.RED+"/"+Fore.LIGHTYELLOW_EX+"WP"+Fore.RED+"/"+Fore.GREEN+"Get-Username"+Fore.RED+"""]
  └──╼ """+Fore.WHITE+"卐 ").lower()
 
         s = requests.get("http://"+Url+"/wp-content/plugins/")

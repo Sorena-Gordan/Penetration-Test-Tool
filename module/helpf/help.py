@@ -19,7 +19,7 @@ def banner():
                         developer : amirali TooVinS
                         discord id : amirali TooVinS#7670
                         telegram : @feedback200
-                        Discord server :
+                        Discord server : comming soon...
     ======================================================
     """)
 

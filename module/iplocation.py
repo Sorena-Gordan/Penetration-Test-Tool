@@ -6,7 +6,7 @@ from colorama import Fore
 def __start__():
     print(Fore.RED + " [!] Plase Enter IP")
     target = input(
-        Fore.RED + " ┌─[" + Fore.LIGHTGREEN_EX + "WEBKILLER" + Fore.BLUE + "~" + Fore.WHITE + "@HOME" + Fore.RED + "/" + Fore.CYAN + "IG" + Fore.RED + "/" + Fore.LIGHTYELLOW_EX + "CMS-Detect" + Fore.RED + """]
+        Fore.RED + " ┌─[" + Fore.LIGHTGREEN_EX + "ir.nofoz" + Fore.BLUE + "~" + Fore.WHITE + "@HOME" + Fore.RED + "/" + Fore.CYAN + "IG" + Fore.RED + "/" + Fore.LIGHTYELLOW_EX + "CMS-Detect" + Fore.RED + """]
  └──╼ """ + Fore.WHITE + "卐 ")
     result = ipapi.location(ip=target, key=None)
     try:

@@ -24,3 +24,5 @@ def __start__():
         print("")
         sys.exit()
 
+# value += str(val)
+# value = str(val) + value
